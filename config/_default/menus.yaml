@@ -28,6 +28,6 @@ main:
  - name: CV
    url: uploads/resume.pdf
    weight: 30
- - name: Contact
-   url: '#contact'
-   weight: 40
+#  - name: Contact
+#    url: '#contact'
+#    weight: 40
