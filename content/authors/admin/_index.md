@@ -24,18 +24,20 @@ interests:
   - Computer Vision
   - Generative AI
   - Model Compression
-# Education to show in About widget
 # education:
-#   courses:
-#     - course: PhD in Artificial Intelligence
-#       institution: Stanford University
-#       year: 2012
-#     - course: MEng in Artificial Intelligence
-#       institution: Massachusetts Institute of Technology
-#       year: 2009
-#     - course: BSc in Artificial Intelligence
-#       institution: Massachusetts Institute of Technology
-#       year: 2008
+#   - Computer Vision
+#   - Generative AI
+#   - Model Compression
+# Education to show in About widget
+education:
+  courses:
+    - course: Master of Circuits and Systems
+      institution: Fudan University
+      year: 2020.09-2023.06
+    - course: Bachelor of Electronic Information Science and Technology (Excellent Engineer Class)
+      institution: Fudan University
+      year: 2016.09-2020.06
+
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 # skills:
