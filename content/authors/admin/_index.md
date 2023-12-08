@@ -53,10 +53,10 @@ education:
 #         percent: 70
 #         icon: chart-line
 #         icon_pack: fas
-#       - name: SQL
+#       - name: C/C++
 #         description: ''
 #         percent: 40
-#         icon: database
+#         icon: ©️
 #         icon_pack: fas
 #   - name: Hobbies
 #     color: '#EEAC02'
